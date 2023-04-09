@@ -14,7 +14,7 @@
     <execution />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1423" />
+    <option name="totalTimeSeconds" value="1779" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Recep/Desktop/projects/gatsby-casper/src/content/tr",
+    "last_opened_file_path": "C:/Users/Recep/Desktop/projects/gatsby-casper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +41,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Recep\Desktop\projects\gatsby-casper\src\content" />
       <recent name="C:\Users\Recep\Desktop\projects\gatsby-casper\src\content\tr" />
     </key>
   </component>
@@ -53,11 +54,23 @@
       <option name="presentableId" value="Default" />
       <updated>1680985113204</updated>
       <workItem from="1680985114557" duration="817000" />
-      <workItem from="1681022159010" duration="2568000" />
+      <workItem from="1681022159010" duration="3270000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/PostCard.tsx</url>
+          <line>79</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

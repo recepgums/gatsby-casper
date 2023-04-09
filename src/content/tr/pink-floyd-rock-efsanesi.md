@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pink Floyd: Müzik Tarihinin Unutulmaz Grubu'
-author: [Sena]
+author: [Ghost]
 tags: ['Müzik', 'Rock', 'Pink Floyd']
 image: https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/1280px-Pink_Floyd_-_all_members.jpg
 date: '2023-04-08'
