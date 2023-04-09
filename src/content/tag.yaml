@@ -1,3 +1,11 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+
+- id: muzik
+  description: Muzik muzik.
+  image: img/speeches-cover.jpg
+
+- id: rock
+  description: Rock Rock
+  image: img/speeches-cover.jpg
