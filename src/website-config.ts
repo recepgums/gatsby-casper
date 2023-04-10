@@ -54,12 +54,12 @@ export type WebsiteConfig = {
 };
 
 const config: WebsiteConfig = {
-  title: "Rock'n'Blog",
-  description: "Rock müzik, sanat, film ve moda hakkındaki içerikleriyle Rock'n'Blog, yaratıcı ve ilgi çekici bir blogdur.",
+  title: "Hermit Landscape - Exploring the World of Rocks, Cinema, and Art",
+  description: "Join us at Hermit Landscape for a journey through the fascinating world of rocks, cinema, and art. Our blog features in-depth analysis and reviews of films, as well as commentary on the latest trends in the art world. We also share our passion for rocks and minerals, exploring their history, uses, and beauty. Join our community and discover the wonders of the natural and cultural world.",
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gulsum.netlify.app',
+  siteUrl: 'https://hermitlandscape.com/',
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: false,
@@ -68,7 +68,7 @@ const config: WebsiteConfig = {
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'Gulsum gums taragindan yaziliyor',
+  footer: 'Hermit Landscape ',
   showAllTags: true,
 };
 
