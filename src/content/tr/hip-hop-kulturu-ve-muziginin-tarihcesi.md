@@ -67,7 +67,7 @@ Zaman içinde farklı coğrafyalarda yaşayan insanların ve müzik yapımcıla
 *   **West Coast hip-hop:** Bu hip-hop türü ise California, Arizona, Oregon ve Washington gibi batı sahilindeki eyaletlerde doğmuştur ve bu tarz, East Coast'un aksine funk ağırlıklı oluşu, daha yumuşak ritimleri ve daha yavaş tempo sözleriyle kendine has bir tarza sahiptir.
 *   **Dirty South hip-hop:** Bu hip-hop türü Amerika’nın güney eyaletlerinde doğmuştur ve diğer alt-türlere nazaran daha sert ve karanlık ritimlerle, yoğun baslar ve sözleriyle ayırt edilir.
 
-![Notorious B.I.G.'s Iconic Style](https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:6eb25335-c1cc-400f-9747-add61ed16bbc?quality=0.7&gen=ntrn&legacyStatusCode=true)
+![Notorious B.I.G.'s Iconic Style](https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:27840536-4924-11e7-a442-0e40cf2fc285?quality=0.7&gen=ntrn&legacyStatusCode=true)
 
 ### Trap, Gangsta, Mumble Rap, Crunk, Chillhop ve Bounce
 
