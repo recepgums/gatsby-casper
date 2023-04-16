@@ -109,7 +109,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Ghost's Blog",
+            title: "Hermit landscape",
             match: '^/blog/',
           },
         ],

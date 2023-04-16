@@ -6,6 +6,14 @@
   description: Muzik muzik.
   image: img/speeches-cover.jpg
 
+- id: rap
+  description: Rap muzik hakkinda merak edilenler.
+  image: img/speeches-cover.jpg
+
 - id: rock
   description: Rock Rock
+  image: img/speeches-cover.jpg
+
+- id: tarim
+  description: Tarim
   image: img/speeches-cover.jpg
