@@ -5,9 +5,10 @@
   facebook: ghost
   website: https://ghost.org/
   location: San Francisco
-- name: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
+
+- name: Dilettante
+  avatar: avatars/Dilettante.png
+  bio: Müzik ve sanat hakkında yazıyorum, birlikte müziğin ritmine ve sanatın renklerine dalalım
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Pink Floyd: Müzik Tarihinin Unutulmaz Grubu'
-author: [Ghost]
+author: [Dilettante]
 tags: ['Müzik', 'Rock']
-image:  ../img/pink-floyd.png
+image:  ../img/cover/pink-floyd.png
 date: '2023-04-08T15:11:55.000Z'
 draft: false
 ---

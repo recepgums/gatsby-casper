@@ -3,7 +3,7 @@
   image: img/speeches-cover.jpg
 
 - id: muzik
-  description: Muzik muzik.
+  description: Gündemden düşmeyen, merak edilen müzik yazıları.
   image: img/speeches-cover.jpg
 
 - id: rap
@@ -16,4 +16,8 @@
 
 - id: tarim
   description: Tarim
+  image: img/speeches-cover.jpg
+
+- id: unlu
+  description: Ünlü
   image: img/speeches-cover.jpg

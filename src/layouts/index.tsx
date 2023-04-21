@@ -128,6 +128,10 @@ function IndexLayout(props: IndexProps) {
           img {
             max-width: 100%;
           }
+
+          .post-full-content img{
+            max-width: 800px!important;
+          }
           html {
             box-sizing: border-box;
             font-family: sans-serif;

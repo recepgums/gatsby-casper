@@ -4,8 +4,8 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Casper',
-    description: 'A port of the casper blog built for gatsby',
-    siteUrl: 'https://hermitlandscape.com/', // full path to blog - no ending slash
+    description: 'A port of the casper cover built for gatsby',
+    siteUrl: 'https://hermitlandscape.com/', // full path to cover - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
@@ -43,8 +43,9 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 2000,
-              quality: 100,
+              maxWidth: 800,
+              quality: 90,
+              withWebp: true,
             },
           },
         ],
@@ -110,7 +111,7 @@ module.exports = {
             `,
             output: '/rss.xml',
             title: "Hermit landscape",
-            match: '^/blog/',
+            match: '^/cover/',
           },
         ],
       },

@@ -9,7 +9,7 @@ export type WebsiteConfig = {
    */
   lang: string;
   /**
-   * blog full path, no ending slash!
+   * cover full path, no ending slash!
    */
   siteUrl: string;
   /**
@@ -55,8 +55,8 @@ export type WebsiteConfig = {
 
 const config: WebsiteConfig = {
   title: "Hermit Landscape - Exploring the World of Rocks, Cinema, and Art",
-  description: "Join us at Hermit Landscape for a journey through the fascinating world of rocks, cinema, and art. Our blog features in-depth analysis and reviews of films, as well as commentary on the latest trends in the art world. We also share our passion for rocks and minerals, exploring their history, uses, and beauty. Join our community and discover the wonders of the natural and cultural world.",
-  coverImage: 'img/blog-cover.png',
+  description: "Join us at Hermit Landscape for a journey through the fascinating world of rocks, cinema, and art. Our cover features in-depth analysis and reviews of films, as well as commentary on the latest trends in the art world. We also share our passion for rocks and minerals, exploring their history, uses, and beauty. Join our community and discover the wonders of the natural and cultural world.",
+  coverImage: 'img/cover-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://hermitlandscape.com/',
@@ -67,7 +67,7 @@ const config: WebsiteConfig = {
     'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
-  googleSiteVerification: 'GoogleCode',
+  googleSiteVerification: 'G-57V3R1VG4C',
   footer: 'Hermit Landscape ',
   showAllTags: true,
 };
