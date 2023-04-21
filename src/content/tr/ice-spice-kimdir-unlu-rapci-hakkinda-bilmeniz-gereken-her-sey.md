@@ -73,7 +73,9 @@ Boyu 167 ve kilosu 54 kg olan Ice Spice, her müzik klibinde ve katıldığı et
 Ice Spice'ın Çıkardığı Şarkılar ve Albümler
 -------------------------------------------
 
-Son iki yıldır Ice Spice’ın en önemli işlerinden olan "Princess Diana" ve "Bikini Bottom" sayesinde Spice’ın Spotify'ında şu an 37 milyonun üstünde aylık dinleyici bulunmakta. Geçen hafta Nicki Minaj’la çıkardığı “Princess Diana” remixiyle listeleri sarsan **Ice Spice’ın Nicki Minaj ile çektiği klip** hakkında bilgileri [Rising Star Ice Spice Teams Up with Nicki Minaj for Epic Remix "Princess Diana"](https://closetfinder.com/magazine/rising-star-ice-spice-teams-up-with-nicki-minaj-for-epic-remix-princess-diana) bağlantısından bulabilirsiniz.
+Son iki yıldır Ice Spice’ın en önemli işlerinden olan "Princess Diana" ve "Bikini Bottom" sayesinde Spice’ın Spotify'ında şu an 37 milyonun üstünde aylık dinleyici bulunmakta. Geçen hafta Nicki Minaj’la çıkardığı “Princess Diana” remixiyle listeleri sarsan  [Ice Spice’ın Nicki Minaj ile çektiği klip](https://closetfinder.com/magazine/rising-star-ice-spice-teams-up-with-nicki-minaj-for-epic-remix-princess-diana) Closet Finder sitesinden ulaşabilirsiniz.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMq-I0dejjE" frameborder="0" allowfullscreen></iframe>
 
 Bunların yanı sıra Ice Spice diskografisinde bulunan diğer çalışmalar:
 
